@@ -3,7 +3,7 @@ layout: page
 title: Departemente
 ---
 
-# [Departemente](https://www.bfh.ch/de/ueber-die-bfh/departemente/) & Ansprechpartner
+[Departemente](https://www.bfh.ch/de/ueber-die-bfh/departemente/) & Ansprechpartner
 
 ## Departement Architektur, Holz und Bau
 
