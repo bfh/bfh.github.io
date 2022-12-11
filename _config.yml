@@ -4,5 +4,7 @@ theme: minima
 header_pages:
   - index.md
 
+author: Open Source - Community of Practice
+
 twitter_username: bfh_hesb
 github_username:  bfh
