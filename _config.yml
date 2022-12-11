@@ -6,11 +6,9 @@ header_pages:
 
 author: Open Source - Community of Practice
 
-minima:
-  social_links:
-    - { platform: facebook,       user_url: "https://www.facebook.com/bernerfachhochschule" }
-    - { platform: github,         user_url: "https://github.com/bfh" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/berner_fachhochschule" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/school/berner-fachhochschule-bfh" }
-    - { platform: twitter,        user_url: "https://twitter.com/bfh_hesb" }
-    - { platform: youtube,        user_url: "https://www.youtube.com/BernerFachhochschule" }
+twitter_username: bfh_hesb
+github_username: bfh
+facebook_username: bernerfachhochschule
+instagram_username: berner_fachhochschule
+linkedin_username: berner-fachhochschule-bfh
+youtube_username: BernerFachhochschule
