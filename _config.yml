@@ -2,7 +2,6 @@ title: BFH
 description: Bern University of Applied Sciences 
 theme: minima
 header_pages:
-  - index.md
   - departemente.md
 
 author: Open Source - Community of Practice
