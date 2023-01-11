@@ -12,3 +12,6 @@ Unsere teilnehmenden [Departemente](https://www.bfh.ch/de/ueber-die-bfh/departem
 ## Departement Technik und Informatik
 
 ## Departement Wirtschaft
+
+## Vizerektorat Lehre
+
