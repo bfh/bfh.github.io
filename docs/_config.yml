@@ -6,7 +6,6 @@ author:
   name: BFH Open Source Community of Practice
   email: opensource@bfh.ch
 
-plugins_dir: ./_scripts
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
