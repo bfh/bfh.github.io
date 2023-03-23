@@ -1,6 +1,6 @@
 # Command to start on workspace startup (optional)
 tasks:
-  - init: cd docs && ruby --version && gem install bundler && bundle install && bundle add webrick
+  - init: cd docs && ruby --version && gem install bundler && bundle install
     command: bundle exec jekyll serve
 # Ports to expose on workspace startup (optional)
 ports:
