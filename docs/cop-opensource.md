@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Willkommen in der BFH Open Source Community of Practice
+title: Open Source
 ---
+# Willkommen in der BFH Open Source Community of Practice
 
 Unsere teilnehmenden [Departemente](https://www.bfh.ch/de/ueber-die-bfh/departemente/) und involvierten Ansprechpartner. 
 
