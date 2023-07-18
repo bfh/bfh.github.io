@@ -13,11 +13,9 @@ Typischerweise lässt sich der Kontakt mit Open Source Artefakten wie bspw. Soft
 
 ## Verwendung von Open Source
 
-## Mitwirken an Open Source
+## Mitwirken & Freigabe von Open Source
 
-## Freigabe von Open Source
-
-Aktuell unterhält die [BFH bereits eine Reihe von öffentlichen s.g. Github-Organisationen](https://ossbenchmark.com/institutions/bfh) in denen eine ganze Reihe von Projekten veröffentlicht werden und wurden:
+Aktuell unterhält die [BFH eine Reihe von öffentlichen s.g. Github-Organisationen](https://ossbenchmark.com/institutions/bfh) in denen bereits jede Menge Projekte veröffentlicht werden und wurden:
  - [github.com/**bfh**](http://github.com/bfh/)
  - [github.com/**BFH-InternetOfThings**](http://github.com/BFH-InternetOfThings/)
  - [github.com/**cpvrlab**](http://github.com/cpvrlab/)
