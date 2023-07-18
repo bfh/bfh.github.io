@@ -20,7 +20,7 @@ Unsere teilnehmenden [Departemente](https://www.bfh.ch/de/ueber-die-bfh/departem
 
 ## Departement Wirtschaft
 
-{% avatar mauriziopiu %}
+{% avatar jonasbaertschi %}
 {% avatar MarkusTiede %}
 
 ## Vizerektorat Lehre
