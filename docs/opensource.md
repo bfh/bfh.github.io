@@ -1,19 +1,26 @@
 ---
-layout: page
+layout: page-with-toc
 title: Open Source an der Berner Fachhochschule
 permalink: /opensource
 ---
+
 [![](https://images.unsplash.com/photo-1505835045737-a37cf2e93876?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1024&q=80)](https://unsplash.com/de/fotos/T7s_TnKO-dk)
+
+# Einleitung
 
 Open Source Software (OSS) sind Programme, die unter einer [Open Source Lizenz](https://opensource.org/licenses/) veröffentlicht sind. Diese Lizenz erlaubt es, dass OSS einerseits beliebig kopiert werden kann und andererseits der Quellcode offen zur Verfügung steht und auch verändert werden darf. Somit ist OSS stehts lizenzkostenfrei und transparent einsehbar. **Für das Studium eignet sich OSS besonders gut, weil es viele kostenlose Programme gibt, die für Studierende und Mitarbeitende nützlich sind.** Auf dieser Website stehen zahlreiche Empfehlungen, Hintergrundinformationen und Hilfsmittel zur Verfügung, die den Einsatz von OSS im Studium an der Berner Fachhochschule erleichtern sollen. Es ist allerdings darauf hingewiesen, dass aufgrund der Vielzahl von OSS Produkten kein Endbenutzer-Support geleistet werden kann.
 
-# Open Source auf mehreren Ebenen
+# Aktuelles
+
+# Open Source - auf mehreren Ebenen
+
+[![](https://github.com/todogroup/ospo-career-path/raw/main/OSPO-101/module2/os-ladder.png)](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module2/README.md#climbing-the-open-source-ladder)
 
 Typischerweise lässt sich der Kontakt mit Open Source Artefakten wie bspw. Software in Organisationen in mindestens drei Teilbereiche einordnen: 1. die **Verwendung von freien und quelloffenen Alternativen**, 2. das **Mitwirken an bestehenden Projekten** oder gar 3. das **Starten und Unterhalten von eigenen Projekten**. Wir an der BFH sind auf all diesen Ebenen zeitgleich unterwegs:
 
 ## Verwendung von Open Source
 
-## Mitwirken & Freigabe von Open Source
+## Mitwirken an & Freigabe von Open Source
 
 Aktuell unterhält die [BFH eine Reihe von öffentlichen s.g. Github-Organisationen](https://ossbenchmark.com/institutions/bfh) in denen bereits jede Menge Projekte veröffentlicht werden und wurden:
  - [github.com/**bfh**](http://github.com/bfh/)
@@ -24,15 +31,15 @@ Aktuell unterhält die [BFH eine Reihe von öffentlichen s.g. Github-Organisatio
  - [github.com/**iam-ictm**](http://github.com/iam-ictm/)
  - [github.com/**virtuelleakademie**](http://github.com/virtuelleakademie/)
 
-# Kontakt
+# Kontakt & Ansprechpartner
 
 ## [bfh.ch/opensource](https://bfh.ch/opensource)
 
 Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BFH zu finden.
 
-## BFH Open Source [Community of Practice](https://scaledagileframework.com/communities-of-practice/)
+## Community of Practice
 
-Willkommen in unserer BFH Open Source CoP mit folgenden teilnehmenden [Departemente](https://www.bfh.ch/de/ueber-die-bfh/departemente/) und involvierten Ansprechpartnern: 
+Willkommen in unserer BFH Open Source [Community of Practice](https://github.com/bfh/cop-opensource) mit folgenden teilnehmenden [Departementen](https://www.bfh.ch/de/ueber-die-bfh/departemente/) und involvierten Ansprechpartnern: 
 
 ### Departement Architektur, Holz und Bau
 
@@ -58,16 +65,16 @@ Willkommen in unserer BFH Open Source CoP mit folgenden teilnehmenden [Departeme
 
 [{% avatar lucaboesch %} Luca Bösch](https://www.bfh.ch/de/ueber-die-bfh/personen/bzaqj4m7wyyb/)
 
-## Vereine und Organisationen
+# Vereine und Organisationen
 
-### [CH Open](https://www.ch-open.ch)
+## [CH Open](https://www.ch-open.ch)
 Verein zur Förderung von Open Source Software und offenen Standards in der Schweiz
 
-### [Digital Impact Network](https://digitalimpact.ch)
+## [Digital Impact Network](https://digitalimpact.ch)
 Dein Partner für Digitalisierung in der Haupt­stadt­region.
 
-### [Parlamentarische Gruppe Digitale Nachhaltigkeit ](https://www.parldigi.ch)
+## [Parlamentarische Gruppe Digitale Nachhaltigkeit ](https://www.parldigi.ch)
 Der Verein fördert die digitale Nachhaltigkeit in der Schweiz, unterstützt den nachhaltigen und innovativen Umgang mit Informations- und Kommunikationstechnologien und setzt sich für den öffentlichen Zugang zu digitalen Wissensgütern (Daten, Software und Inhalte) ein. 
 
-### [Swiss Data Alliance](https://www.swissdataalliance.ch/)
+## [Swiss Data Alliance](https://www.swissdataalliance.ch/)
 Die Swiss Data Alliance engagiert sich für eine konstruktive Datenpolitik an der Schnittstelle von Forschung, Wirtschaft und Zivilgesellschaft.
