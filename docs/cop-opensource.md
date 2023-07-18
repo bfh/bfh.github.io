@@ -1,29 +1,61 @@
 ---
 layout: page
-title: Open Source
+title: Open Source an der Berner Fachhochschule
+permalink: /opensource
 ---
-# Willkommen in der BFH Open Source Community of Practice
+[![](https://images.unsplash.com/photo-1505835045737-a37cf2e93876?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1024&q=80)](https://unsplash.com/de/fotos/T7s_TnKO-dk)
 
-Unsere teilnehmenden [Departemente](https://www.bfh.ch/de/ueber-die-bfh/departemente/) und involvierten Ansprechpartner. 
+Open Source Software (OSS) sind Programme, die unter einer [Open Source Lizenz](https://opensource.org/licenses/) veröffentlicht sind. Diese Lizenz erlaubt es, dass OSS einerseits beliebig kopiert werden kann und andererseits der Quellcode offen zur Verfügung steht und auch verändert werden darf. Somit ist OSS stehts lizenzkostenfrei und transparent einsehbar. **Für das Studium eignet sich OSS besonders gut, weil es viele kostenlose Programme gibt, die für Studierende und Mitarbeitende nützlich sind.** Auf dieser Website stehen zahlreiche Empfehlungen, Hintergrundinformationen und Hilfsmittel zur Verfügung, die den Einsatz von OSS im Studium an der Berner Fachhochschule erleichtern sollen. Es ist allerdings darauf hingewiesen, dass aufgrund der Vielzahl von OSS Produkten kein Endbenutzer-Support geleistet werden kann.
 
-## Departement Architektur, Holz und Bau
+# Open Source auf mehreren Ebenen
 
-{% avatar ronnystandtke %}
+Typischerweise lässt sich der Kontakt mit Open Source Artefakten wie bspw. Software in Organisationen in mindestens drei Teilbereiche einordnen: 1. die **Verwendung von freien und quelloffenen Alternativen**, 2. das **Mitwirken an bestehenden Projekten** oder gar 3. das **Starten und Unterhalten von eigenen Projekten**. Wir an der BFH sind auf all diesen Ebenen zeitgleich unterwegs:
 
-## Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften HAFL
+## Verwendung von Open Source
 
-{% avatar Hannes-Ole %}
+## Mitwirken an Open Source
 
-## Departement Technik und Informatik
+## Freigabe von Open Source
 
-{% avatar vgj1 %}
+Aktuell unterhält die [BFH bereits eine Reihe von öffentlichen s.g. Github-Organisationen](https://ossbenchmark.com/institutions/bfh) in denen eine ganze Reihe von Projekten veröffentlicht werden und wurden:
+ - [github.com/**bfh**](http://github.com/bfh/)
+ - [github.com/**BFH-InternetOfThings**](http://github.com/BFH-InternetOfThings/)
+ - [github.com/**cpvrlab**](http://github.com/cpvrlab/)
+ - [github.com/**digital-sustainability**](http://github.com/digital-sustainability/)
+ - [github.com/**HAFL-WWI**](http://github.com/HAFL-WWI/)
+ - [github.com/**iam-ictm**](http://github.com/iam-ictm/)
+ - [github.com/**virtuelleakademie**](http://github.com/virtuelleakademie/)
 
-## Departement Wirtschaft
+# Kontakt
 
-{% avatar jonasbaertschi %}
-{% avatar MarkusTiede %}
+## [bfh.ch/opensource](https://bfh.ch/opensource)
 
-## Vizerektorat Lehre
+Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BFH zu finden.
 
-{% avatar lenatichy %}
-{% avatar lucaboesch %}
+## BFH Open Source [Community of Practice](https://scaledagileframework.com/communities-of-practice/)
+
+Willkommen in unserer BFH Open Source CoP mit folgenden teilnehmenden [Departemente](https://www.bfh.ch/de/ueber-die-bfh/departemente/) und involvierten Ansprechpartnern: 
+
+### Departement Architektur, Holz und Bau
+
+[{% avatar ronnystandtke %} Ronny Standtke](https://www.bfh.ch/de/ueber-die-bfh/personen/et7lw7r3xm2r/)
+
+### Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften HAFL
+
+[{% avatar Hannes-Ole %} Hannes Horneber](https://www.bfh.ch/de/ueber-die-bfh/personen/3vyn5q572ttg/)
+
+### Departement Technik und Informatik
+
+[{% avatar vgj1 %} Jürgen Vogel](https://www.bfh.ch/de/ueber-die-bfh/personen/dftzu4f3f2o2/)
+
+### Departement Wirtschaft
+
+[{% avatar jonasbaertschi %} Jonas Bärtschi](https://www.bfh.ch/de/ueber-die-bfh/personen/np2q4may3n7v/)
+
+[{% avatar MarkusTiede %} Markus Tiede](https://www.bfh.ch/de/ueber-die-bfh/personen/wqt4t23oxq3q/)
+
+### Vizerektorat Lehre
+
+[{% avatar lenatichy %} Lena Tichy](https://www.bfh.ch/de/ueber-die-bfh/personen/zjgyrymvn42q/)
+
+[{% avatar lucaboesch %} Luca Bösch](https://www.bfh.ch/de/ueber-die-bfh/personen/bzaqj4m7wyyb/)
