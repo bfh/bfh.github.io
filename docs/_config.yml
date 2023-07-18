@@ -12,7 +12,7 @@ plugins:
   - jekyll-avatar
 
 header_pages:
-  - cop-opensource.md
+  - opensource.md
 
 future: true
 
