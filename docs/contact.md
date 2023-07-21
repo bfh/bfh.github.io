@@ -1,6 +1,6 @@
 ---
 layout: page-with-toc
-title: Kontakt
+title: Community & Kontakt
 permalink: /contact
 ---
 
