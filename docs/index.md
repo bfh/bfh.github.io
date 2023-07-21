@@ -1,7 +1,7 @@
 ---
 layout: page
+title: Open Source an der Berner Fachhochschule
 ---
-# Open Source an der Berner Fachhochschule
 
 [![](https://images.unsplash.com/photo-1505835045737-a37cf2e93876?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1024&q=80)](https://unsplash.com/de/fotos/T7s_TnKO-dk)
 
