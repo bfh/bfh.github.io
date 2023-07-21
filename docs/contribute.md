@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Source beisteuern
+title: Mitmachen & Starten
 permalink: /contribute
 ---
 
