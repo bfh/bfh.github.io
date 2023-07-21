@@ -41,11 +41,5 @@ Willkommen in unserer BFH Open Source [Community of Practice](https://github.com
 ## [CH Open](https://www.ch-open.ch)
 Verein zur Förderung von Open Source Software und offenen Standards in der Schweiz
 
-## [Digital Impact Network](https://digitalimpact.ch)
-Dein Partner für Digitalisierung in der Haupt­stadt­region.
-
 ## [Parlamentarische Gruppe Digitale Nachhaltigkeit ](https://www.parldigi.ch)
 Der Verein fördert die digitale Nachhaltigkeit in der Schweiz, unterstützt den nachhaltigen und innovativen Umgang mit Informations- und Kommunikationstechnologien und setzt sich für den öffentlichen Zugang zu digitalen Wissensgütern (Daten, Software und Inhalte) ein. 
-
-## [Swiss Data Alliance](https://www.swissdataalliance.ch/)
-Die Swiss Data Alliance engagiert sich für eine konstruktive Datenpolitik an der Schnittstelle von Forschung, Wirtschaft und Zivilgesellschaft.

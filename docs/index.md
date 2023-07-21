@@ -3,7 +3,7 @@ layout: page
 title: Open Source an der Berner Fachhochschule
 ---
 
-[![](https://images.unsplash.com/photo-1505835045737-a37cf2e93876?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1024&q=80)](https://unsplash.com/de/fotos/T7s_TnKO-dk)
+[<img src="https://unsplash.com/photos/T7s_TnKO-dk/download?w=1024" style="width: 100%; height: 300px; object-fit: cover; object-position: 0px -150px;" >](https://unsplash.com/de/fotos/T7s_TnKO-dk)
 
 # Einleitung
 
@@ -20,12 +20,3 @@ Typischerweise lässt sich der Kontakt mit Open Source Artefakten wie bspw. Soft
 ## Verwendung von Open Source
 
 ## Mitwirken an & Freigabe von Open Source
-
-Aktuell unterhält die [BFH eine Reihe von öffentlichen s.g. Github-Organisationen](https://ossbenchmark.com/institutions/bfh) in denen bereits jede Menge Projekte veröffentlicht werden und wurden:
- - [github.com/**bfh**](http://github.com/bfh/)
- - [github.com/**BFH-InternetOfThings**](http://github.com/BFH-InternetOfThings/)
- - [github.com/**cpvrlab**](http://github.com/cpvrlab/)
- - [github.com/**digital-sustainability**](http://github.com/digital-sustainability/)
- - [github.com/**HAFL-WWI**](http://github.com/HAFL-WWI/)
- - [github.com/**iam-ictm**](http://github.com/iam-ictm/)
- - [github.com/**virtuelleakademie**](http://github.com/virtuelleakademie/)

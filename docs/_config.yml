@@ -12,6 +12,9 @@ plugins:
   - jekyll-avatar
 
 header_pages:
+  - use.md 
+  - contribute.md
+  - cop.md
   - contact.md
 
 future: true
