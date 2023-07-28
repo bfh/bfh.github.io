@@ -4,13 +4,15 @@ title: Community & Kontakt
 permalink: /contact
 ---
 
+[<img src="https://unsplash.com/photos/LjqARJaJotc/download?w=1024" style="width: 100%; height: 300px; object-fit: cover; object-position: 0px -320px;" >](https://unsplash.com/de/fotos/LjqARJaJotc)
+
 # [bfh.ch/opensource](https://bfh.ch/opensource)
 
 Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BFH zu finden.
 
 # Community of Practice
 
-Willkommen in unserer BFH Open Source [Community of Practice](https://github.com/bfh/cop-opensource) mit folgenden teilnehmenden [Departementen](https://www.bfh.ch/de/ueber-die-bfh/departemente/) und involvierten Ansprechpartnern: 
+Willkommen zu unserer in 2023 initiierten BFH Open Source [Community of Practice](https://github.com/bfh/cop-opensource) mit folgenden teilnehmenden [Departementen](https://www.bfh.ch/de/ueber-die-bfh/departemente/) und involvierten Ansprechpartnern: 
 
 ## Departement Architektur, Holz und Bau
 

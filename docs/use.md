@@ -4,7 +4,7 @@ title: Nutzen & Anwenden
 permalink: /use
 ---
 
-[<img src="https://unsplash.com/photos/_94HLr_QXo8/download?w=1024" style="width: 100%; height: 300px; object-fit: cover; object-position: 0px -150px;" >](https://unsplash.com/de/fotos/_94HLr_QXo8)
+[<img src="https://unsplash.com/photos/_94HLr_QXo8/download?w=1024" style="width: 100%; height: 300px; object-fit: cover; object-position: 0px -345px;" >](https://unsplash.com/de/fotos/_94HLr_QXo8)
 
 # Allgemeines
 
