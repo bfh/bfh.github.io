@@ -3,7 +3,7 @@ layout: page
 title: Open Source an der Berner Fachhochschule
 ---
 
-[<img src="https://unsplash.com/photos/T7s_TnKO-dk/download?w=1024" style="width: 100%; height: 300px; object-fit: cover; object-position: 0px -150px;" >](https://unsplash.com/de/fotos/T7s_TnKO-dk)
+[![](img/os.jpg)](https://unsplash.com/de/fotos/T7s_TnKO-dk)
 
 # Einleitung
 

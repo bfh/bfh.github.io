@@ -4,7 +4,7 @@ title: Mitmachen & Starten
 permalink: /contribute
 ---
 
-[<img src="https://unsplash.com/photos/y5_mFlLMwJk/download?w=1024" style="width: 100%; height: 300px; object-fit: cover; object-position: 0px -320px;" >](https://unsplash.com/de/fotos/y5_mFlLMwJk)
+[![](img/start.jpg)](https://unsplash.com/de/fotos/y5_mFlLMwJk)
 
 # Startpunkte
 

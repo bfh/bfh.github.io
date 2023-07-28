@@ -4,7 +4,7 @@ title: Community & Kontakt
 permalink: /contact
 ---
 
-[<img src="https://unsplash.com/photos/LjqARJaJotc/download?w=1024" style="width: 100%; height: 300px; object-fit: cover; object-position: 0px -320px;" >](https://unsplash.com/de/fotos/LjqARJaJotc)
+[![](img/community.jpg)](https://unsplash.com/de/fotos/LjqARJaJotc)
 
 # [bfh.ch/opensource](https://bfh.ch/opensource)
 
