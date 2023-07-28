@@ -4,6 +4,8 @@ title: Nutzen & Anwenden
 permalink: /use
 ---
 
+[<img src="https://unsplash.com/photos/_94HLr_QXo8/download?w=1024" style="width: 100%; height: 300px; object-fit: cover; object-position: 0px -150px;" >](https://unsplash.com/de/fotos/_94HLr_QXo8)
+
 # Allgemeines
 
 Für das Studium eignet sich Open Source besonders gut, weil es viele kostenlose Programme gibt, die für Studierende und Mitarbeitende nützlich sind. Anlaufstellen um diese aufzufinden gibt es einige
