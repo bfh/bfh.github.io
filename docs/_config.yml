@@ -3,7 +3,7 @@ description: BFH | Bern University of Applied Sciences
 remote_theme: jekyll/minima
 
 author:
-  name: BFH - Communities of Practice
+  name: BFH - Open Source Community of Practice
   email: opensource@bfh.ch
 
 plugins:
