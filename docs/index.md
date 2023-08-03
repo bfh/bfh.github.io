@@ -13,4 +13,9 @@ Open Source Software (OSS) sind Programme, die unter einer [Open Source Lizenz](
 
 [![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/module2/os-ladder.png)](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#lesson-the-value-of-an-open-source-strategy)
 
-Typischerweise lässt sich der Kontakt mit Open Source Artefakten wie bspw. Software in Organisationen in mindestens drei Teilbereiche einordnen: 1. die **Verwendung von freien und quelloffenen Alternativen**, 2. das **Mitwirken an bestehenden Projekten** oder gar 3. das **Starten und Unterhalten von eigenen Projekten**. Wir an der BFH sind auf all diesen Ebenen zeitgleich unterwegs. Mehr dazu im Bereich "[Nutzen & Anwenden](use.md)" und "[Mitmachen & Starten](contribute.md)"!
+Typischerweise lässt sich der Kontakt mit Open Source Artefakten wie bspw. Software in Organisationen in mindestens drei Teilbereiche einordnen: 
+ 1. die **Verwendung von freien und quelloffenen Alternativen**,
+ 2. das **Mitwirken an bestehenden Projekten** oder gar
+ 3. das **Starten und Unterhalten von eigenen Projekten**.
+
+Wir an der BFH sind auf all diesen Ebenen zeitgleich unterwegs. Mehr dazu im Bereich "[Nutzen & Anwenden](use.md)" und "[Mitmachen & Starten](contribute.md)"!
