@@ -10,9 +10,9 @@ permalink: /use
 
 Für das Studium eignet sich Open Source besonders gut, weil es viele kostenlose Programme gibt, die für Studierende und Mitarbeitende nützlich sind. Anlaufstellen um diese aufzufinden gibt es einige
 
-## Open Source Empfehlungen aus dem [IPST](https://www.bfh.ch/ipst)
+## Open Source Empfehlungen
 
-Am Institut Public Sector Transformation der BFH ist im Rahmen verschiedener Studien, Anwendungen und Alltagsprojekte bereits eine stattliche Liste von empfehlenswerten [⭐ Open Source Software Projekten](/awesome-opensource-projects/#software) entstanden. Schau doch gerne vorbei und [ergänze deine Lieblingsprojekte](https://github.com/bfh/awesome-opensource-projects/edit/bfh/index.adoc), wenn dir welche fehlen.
+Am [Institut Public Sector Transformation](https://www.bfh.ch/ipst) der BFH ist im Rahmen verschiedener Studien, Anwendungen und Alltagsprojekte bereits eine stattliche Liste von empfehlenswerten [⭐ Open Source Software Projekten](/awesome-opensource-projects/#software) entstanden. Schau doch gerne vorbei und [ergänze deine Lieblingsprojekte](https://github.com/bfh/awesome-opensource-projects/edit/bfh/index.adoc), wenn dir welche fehlen.
 
 ## Open Source Alternativen im Netz
 
