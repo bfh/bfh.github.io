@@ -10,9 +10,7 @@ permalink: /contact
 
 Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BFH zu finden.
 
-# Community of Practice
-
-Willkommen zu unserer in 2023 initiierten BFH Open Source [Community of Practice](https://github.com/bfh/cop-opensource) mit folgenden teilnehmenden [Departementen](https://www.bfh.ch/de/ueber-die-bfh/departemente/) und involvierten Ansprechpartnern: 
+# Departemente 
 
 ## Departement Architektur, Holz und Bau
 
