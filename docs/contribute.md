@@ -26,3 +26,7 @@ Aktuell unterhält die [BFH eine Reihe von öffentlichen s.g. Github-Organisatio
 Neben den öffentlichen Repositories betreibt die BFH eine Reihe von s.g. [inner source](https://de.wikipedia.org/wiki/Inner_Source) Angebote in einer [zentralen Gitlab (https://gitlab.ti.bfh.ch) Instanz](https://gitlab.ti.bfh.ch).
 
 Auch die [Seiten der BFH.science](https://bfh.science) stellen einen guten Anlaufpunkt für technische Anliegen zu Service des ["Linux & Infrastructure Services (LNI) Team"](https://web.bfh.info/team/about/) der BFH dar.
+
+## Community of Practice
+
+Willkommen zu unserer in 2023 initiierten BFH Open Source [Community of Practice](https://github.com/bfh/opensource) mit folgenden teilnehmenden [Departementen](contact.md#departemente) und involvierten Ansprechpartnern. Wir treffen uns [virtuell alle 2 Wochen zum offenen, departementsübergreifenden Austausch](https://github.com/bfh/opensource/blob/main/docs/md/goals/join.md#bi-weekly-ost) - Schau' doch gerne mal vorbei!
