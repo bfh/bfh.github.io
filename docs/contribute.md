@@ -19,6 +19,7 @@ Aktuell unterhält die [BFH eine Reihe von öffentlichen s.g. Github-Organisatio
  - [github.com/**digital-sustainability**](http://github.com/digital-sustainability/)
  - [github.com/**HAFL-WWI**](http://github.com/HAFL-WWI/)
  - [github.com/**iam-ictm**](http://github.com/iam-ictm/)
+ - [github.com/**Lernstick**](http://github.com/Lernstick/)
  - [github.com/**virtuelleakademie**](http://github.com/virtuelleakademie/)
 
 ## Inner Source & Services
