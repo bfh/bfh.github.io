@@ -26,9 +26,9 @@ Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BF
 
 ## Departement Wirtschaft
 
-[{% avatar jonasbaertschi %} Jonas Bärtschi](https://www.bfh.ch/de/ueber-die-bfh/personen/np2q4may3n7v/)
+[{% avatar joberkel %} Jörg Berkel](https://www.bfh.ch/de/joerg-berkel)
 
-[{% avatar MarkusTiede %} Markus Tiede](https://www.bfh.ch/de/ueber-die-bfh/personen/wqt4t23oxq3q/)
+[{% avatar MarkusTiede %} Markus Tiede](https://www.bfh.ch/de/markus-andreas-tiede)
 
 ## Vizerektorat Lehre
 
