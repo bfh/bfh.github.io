@@ -18,7 +18,9 @@ Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BF
 
 ## Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften HAFL
 
-[{% avatar Hannes-Ole %} Hannes Horneber](https://www.bfh.ch/de/ueber-die-bfh/personen/3vyn5q572ttg/)
+[{% avatar geckofarmer %} Martin Bauer](www.bfh.ch/de/martin-bauer)
+
+[{% avatar Hannes-Ole %} Hannes Horneber](https://www.bfh.ch/de/hannes-ole-horneber)
 
 ## Departement Technik und Informatik
 
