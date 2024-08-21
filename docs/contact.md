@@ -18,7 +18,7 @@ Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BF
 
 ## Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften HAFL
 
-[{% avatar geckofarmer %} Martin Bauer](www.bfh.ch/de/martin-bauer)
+[{% avatar geckofarmer %} Martin Bauer](https://www.bfh.ch/de/martin-bauer)
 
 [{% avatar Hannes-Ole %} Hannes Horneber](https://www.bfh.ch/de/hannes-ole-horneber)
 
