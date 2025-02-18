@@ -34,8 +34,6 @@ Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BF
 
 ## Vizerektorat Lehre
 
-[{% avatar lenatichy %} Lena Tichy](https://www.bfh.ch/de/ueber-die-bfh/personen/zjgyrymvn42q/)
-
 [{% avatar lucaboesch %} Luca Bösch](https://www.bfh.ch/de/ueber-die-bfh/personen/bzaqj4m7wyyb/)
 
 # Vereine und Organisationen
