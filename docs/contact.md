@@ -22,6 +22,10 @@ Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BF
 
 [{% avatar Hannes-Ole %} Hannes Horneber](https://www.bfh.ch/de/hannes-ole-horneber)
 
+## Departement Gesundheit
+
+[{% avatar pateibe %} Patric Eichelberger](https://www.bfh.ch/de/patric-eichelberger)
+
 ## Departement Technik und Informatik
 
 [{% avatar vgj1 %} Jürgen Vogel](https://www.bfh.ch/de/ueber-die-bfh/personen/dftzu4f3f2o2/)
