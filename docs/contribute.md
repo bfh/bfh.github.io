@@ -21,6 +21,8 @@ Aktuell unterhält die [BFH eine Reihe von öffentlichen s.g. Github-Organisatio
  - [github.com/**iam-ictm**](http://github.com/iam-ictm/)
  - [github.com/**Lernstick**](http://github.com/Lernstick/)
  - [github.com/**virtuelleakademie**](http://github.com/virtuelleakademie/)
+ - [github.com/**bern-movement-lab**](https://github.com/bern-movement-lab/)
+ - [gitlab.ti.bfh.ch/**oss**](https://gitlab.ti.bfh.ch/oss/)
 
 ## Inner Source & Services
 
