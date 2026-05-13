@@ -14,7 +14,7 @@ plugins:
 future: true
 
 minima:
-  skin: classic
+  skin: auto
   date_format: "%d.%m.%Y"
   nav_pages:
   - use.md 
