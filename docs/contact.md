@@ -1,5 +1,5 @@
 ---
-layout: page-with-toc
+layout: page
 title: Community & Kontakt
 permalink: /contact
 ---
