@@ -11,16 +11,16 @@ plugins:
   - jekyll-seo-tag
   - jekyll-avatar
 
-header_pages:
-  - use.md 
-  - contribute.md
-  - contact.md
-
 future: true
 
 minima:
   skin: classic
   date_format: "%d.%m.%Y"
+  nav_pages:
+  - use.md 
+  - contribute.md
+  - contact.md
+  - ospo.md
   social_links:
     - title: BFH organization at GitHub
       icon: github
