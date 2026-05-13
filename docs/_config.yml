@@ -22,7 +22,15 @@ minima:
   skin: classic
   date_format: "%d.%m.%Y"
   social_links:
-    - { platform: github, user_url: "https://github.com/bfh/" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/school/berner-fachhochschule-bfh/" }
-    - { platform: twitter, user_url: "https://twitter.com/bfh_hesb" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@BernerFachhochschule" }
+    - title: BFH organization at GitHub
+      icon: github
+      url: "https://github.com/bfh/"
+    - title: BFH organization at LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/school/berner-fachhochschule-bfh/"
+    - title: BFH organization at X
+      icon: twitter
+      url: "https://twitter.com/bfh_hesb"
+    - title: BFH organization at YouTube
+      icon: youtube
+      url: "https://www.youtube.com/@BernerFachhochschule"
