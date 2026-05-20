@@ -24,7 +24,7 @@ Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BF
 
 ## Departement Gesundheit
 
-[{% avatar pateibe %} Patric Eichelberger](https://www.bfh.ch/de/patric-eichelberger)
+[{% avatar pelberger %} Patric Eichelberger](https://www.bfh.ch/de/patric-eichelberger)
 
 ## Departement Technik und Informatik
 
