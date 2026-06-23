@@ -32,13 +32,15 @@ Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BF
 
 ## Departement Wirtschaft
 
-[{% avatar joberkel %} Jörg Berkel](https://www.bfh.ch/de/joerg-berkel)
-
 [{% avatar MarkusTiede %} Markus Tiede](https://www.bfh.ch/de/markus-andreas-tiede)
+
+[{% avatar lsmith77 %} Lukas Smith](https://www.bfh.ch/de/lukas-kahwe-smith)
 
 ## Vizerektorat Lehre
 
 [{% avatar lucaboesch %} Luca Bösch](https://www.bfh.ch/de/ueber-die-bfh/personen/bzaqj4m7wyyb/)
+
+[{% avatar joberkel %} Jörg Berkel](https://www.bfh.ch/de/joerg-berkel)
 
 # Vereine und Organisationen
 
