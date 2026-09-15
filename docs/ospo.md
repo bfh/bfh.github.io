@@ -48,10 +48,9 @@ Das OSPO soll folgende Aufgaben wahrnehmen:
 
 ### 2026 Q2
 
-| 🔢  |               🎯 Ziel              |                                                                    ⚙️ Massnahme | 🔍 Metrik - pro Jahr                                                                                                                                                 |
+| 🔢  |               🎯 Ziel              |                                                                    ⚙️ Massnahme | 🔍 Metrik - pro Jahr                                                                                                                                              |
 |----|:---------------------------------:|-------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. |       Zentraler Anlaufpunkt       |                                                 Austausch mit BFH Stakeholdern | Anzahl Beratungsmandate (1-2h pro Session; 4 [2026], 6 [2027], 10 [2028]) zu den Themen Beschaffung / Lizenzen / Nutzung / Einführung / Mitwirken / Freigabe / ...  |
-|    |                                   |                                    ℹ️ Abgrenzung zur Begleitung eines Projektes | Aufwände von 4h und mehr werden vom jeweilige Projektbudget getragen und nicht von den Ressourcen des OSPOs selber getragen                                         |
+| 1. |       Zentraler Anlaufpunkt       |                                                 Austausch mit BFH Stakeholdern | Anzahl Beratungsmandate (1-2h pro Session; 4 [2026], 6 [2027], 10 [2028]) zu den Themen Beschaffung / Lizenzen / Nutzung / Einführung / Mitwirken / Freigabe ..  [8]|
 | 2. |            BFH‑Website            |                                                      https://bfh.ch/opensource | 2 Aktualisierungen                                                                                                                                                  |
 |    |                                   |                                                          https://bfh.github.io | regelmässige Aktualisierungen (6-12) im Rahmen der CoP Arbeiten                                                                                                     |
 | 3. | regelmässiger Erfahrungsaustausch |                                        Community of Practice (CoP) Bi-Weeklies | 20+ operative Austauschrunden (30' - transparent unter https://github.com/orgs/bfh/projects/1) mit jeweils einem Ansprechpartner pro Departement                    |
@@ -60,7 +59,7 @@ Das OSPO soll folgende Aufgaben wahrnehmen:
 | 5. |       interne Kommunikation       |                              Teilnahme & Promotion an internen Veranstaltungen | 2 x Vorstellung OSPO und Inhalte der internen Arbeit                                                                                                                |
 | 6. |       Öffentlichkeitsarbeit       |                              Teilnahme & Promotion an externen Veranstaltungen | 4 x Vorstellung BFH OSPO und Inhalte                                                                                                                                |
 | 7. |           Kommunikation           | Community-Beiträge auf https://www.ossdirectory.com/de/communities/details/bfh | 2 x Beiträge: Top News, Produkte, Events, ...                                                                                                                       |
-| 8. |             Reporting             |                                                              ca. 1h Steuerungsmeeting | Ende Q1 & Ende Q3: Abgleich Massnahmen & Ziele mit einheitlichem Reporting                                                                                          |
+| 8. |             Reporting             |                                                              ca. 1h Steuerungsmeeting | jährlicher Austausch mit der Fachstelle Open Science zum Stand der Aktivitäten                                                                               |
 
 <hr>
 
@@ -77,5 +76,7 @@ Das OSPO soll folgende Aufgaben wahrnehmen:
 [6] Siehe Website des CERN Open Source Program Office: [<u>https://opensource.web.cern.ch</u>](https://opensource.web.cern.ch/)
 
 [7] Neue Einträge im OSS Directory erstellen und bestehende Beiträge wie bspw.
+
+[8] Abgrenzung zur Begleitung eines Projektes | Aufwände von 4h und mehr werden vom jeweilige Projektbudget getragen und nicht von den Ressourcen des OSPOs selber.
 
 > [<u>https://www.ossdirectory.com/de/success-stories/details/moodle-bfh</u>](https://www.ossdirectory.com/de/success-stories/details/moodle-bfh) aktualisieren
