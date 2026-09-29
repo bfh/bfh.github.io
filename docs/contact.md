@@ -14,33 +14,33 @@ Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BF
 
 ## Departement Architektur, Holz und Bau
 
-[{% avatar ronnystandtke %} Ronny Standtke](https://www.bfh.ch/de/ueber-die-bfh/personen/et7lw7r3xm2r/)
+[{% avatar ronnystandtke size=100 %} Ronny Standtke](https://www.bfh.ch/de/ueber-die-bfh/personen/et7lw7r3xm2r/)
 
 ## Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften HAFL
 
-[{% avatar geckofarmer %} Martin Bauer](https://www.bfh.ch/de/martin-bauer)
+[{% avatar geckofarmer size=100 %} Martin Bauer](https://www.bfh.ch/de/martin-bauer)
 
-[{% avatar Hannes-Ole %} Hannes Horneber](https://www.bfh.ch/de/hannes-ole-horneber)
+[{% avatar Hannes-Ole size=100 %} Hannes Horneber](https://www.bfh.ch/de/hannes-ole-horneber)
 
 ## Departement Gesundheit
 
-[{% avatar pelberger %} Patric Eichelberger](https://www.bfh.ch/de/patric-eichelberger)
+[{% avatar pelberger size=100 %} Patric Eichelberger](https://www.bfh.ch/de/patric-eichelberger)
 
 ## Departement Technik und Informatik
 
-[{% avatar vgj1 %} Jürgen Vogel](https://www.bfh.ch/de/ueber-die-bfh/personen/dftzu4f3f2o2/)
+[{% avatar vgj1 size=100 %} Jürgen Vogel](https://www.bfh.ch/de/ueber-die-bfh/personen/dftzu4f3f2o2/)
 
 ## Departement Wirtschaft
 
-[{% avatar MarkusTiede %} Markus Tiede](https://www.bfh.ch/de/markus-andreas-tiede)
+[{% avatar MarkusTiede size=100 %} Markus Tiede](https://www.bfh.ch/de/markus-andreas-tiede)
 
-[{% avatar lsmith77 %} Lukas Smith](https://www.bfh.ch/de/lukas-kahwe-smith)
+[{% avatar lsmith77 size=100 %} Lukas Smith](https://www.bfh.ch/de/lukas-kahwe-smith)
 
 ## Vizerektorat Lehre
 
-[{% avatar lucaboesch %} Luca Bösch](https://www.bfh.ch/de/ueber-die-bfh/personen/bzaqj4m7wyyb/)
+[{% avatar lucaboesch size=100 %} Luca Bösch](https://www.bfh.ch/de/ueber-die-bfh/personen/bzaqj4m7wyyb/)
 
-[{% avatar joberkel %} Jörg Berkel](https://www.bfh.ch/de/joerg-berkel)
+[{% avatar joberkel size=100 %} Jörg Berkel](https://www.bfh.ch/de/joerg-berkel)
 
 # Vereine und Organisationen
 
