@@ -47,5 +47,8 @@ Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BF
 ## [CH Open](https://www.ch-open.ch)
 Verein zur Förderung von Open Source Software und offenen Standards in der Schweiz
 
+## [Netzwerk SDS](https://netzwerksds.ch)
+Das «Netzwerk SDS – Souveräne Digitale Schweiz» verbindet Schweizer Organisationen aus öffentlichem und privatem Sektor zum fachlichen Austausch zu digitaler Souveränität.
+
 ## [Parlamentarische Gruppe Digitale Nachhaltigkeit ](https://www.parldigi.ch)
 Der Verein fördert die digitale Nachhaltigkeit in der Schweiz, unterstützt den nachhaltigen und innovativen Umgang mit Informations- und Kommunikationstechnologien und setzt sich für den öffentlichen Zugang zu digitalen Wissensgütern (Daten, Software und Inhalte) ein. 
