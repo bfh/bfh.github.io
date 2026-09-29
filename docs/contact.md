@@ -10,7 +10,7 @@ permalink: /contact
 
 Allgemeine Kontaktinformationen sind ebenfalls auf den offiziellen Seiten der BFH zu finden. Hauptansprechpartner zum Thema ["Open Source @ BFH"](https://bfh.ch/opensource) ist [Markus Tiede](https://www.bfh.ch/de/ueber-die-bfh/personen/wqt4t23oxq3q/) vom [Institut Public Sector Transformation](http://bfh.ch/ipst) am Departement Wirtschaft - Kontakt gerne auch [direkt per eMail](mailto:opensource[at]bfh.ch).
 
-# Departemente 
+# Community 
 
 ## Departement Architektur, Holz und Bau
 
