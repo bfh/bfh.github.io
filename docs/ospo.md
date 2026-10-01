@@ -4,7 +4,7 @@ title: Open Source Program Office
 permalink: /ospo
 ---
 
-[![](img/os.jpg)](https://unsplash.com/de/fotos/T7s_TnKO-dk)
+![](https://bfh.github.io/opensource/docs/logo/bfh-ospo.svg)
 
 # Einleitung
 
