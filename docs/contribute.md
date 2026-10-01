@@ -32,4 +32,4 @@ Auch die [Seiten der BFH.science](https://bfh.science) stellen einen guten Anlau
 
 ## Community of Practice
 
-Willkommen zu unserer in 2023 initiierten BFH Open Source [Community of Practice](https://github.com/bfh/opensource) mit folgenden teilnehmenden [Departementen](contact.md#departemente) und involvierten Ansprechpartnern. Wir treffen uns [virtuell alle 2 Wochen zum offenen, departementsübergreifenden Austausch](https://github.com/bfh/opensource/blob/main/docs/md/goals/join.md#bi-weekly-ost) - Schau' doch gerne mal vorbei!
+Willkommen zu unserer in 2023 initiierten BFH Open Source [Community of Practice](https://github.com/bfh/opensource) mit folgenden teilnehmenden [Departementen](contact.md#community) und involvierten Ansprechpartnern. Wir treffen uns [virtuell alle 2 Wochen zum offenen, departementsübergreifenden Austausch](https://github.com/bfh/opensource/blob/main/docs/md/goals/join.md#bi-weekly-ost) - Schau' doch gerne mal vorbei!
