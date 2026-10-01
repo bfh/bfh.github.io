@@ -4,8 +4,6 @@ title: Open Source Program Office
 permalink: /ospo
 ---
 
-![](https://bfh.github.io/opensource/docs/logo/bfh-ospo.svg)
-
 # Einleitung
 
 Heute werden an der BFH zahlreiche OSS‑Applikationen und Programmierbibliotheken durch Dozierende, IT‑Services, andere Mitarbeitende und Studierende verwendet. Einige Anwendungen wie **Nextcloud, LimeSurvey, Gitlab** und **Lernsticks** sind BFH‑weit im Einsatz.[1]
@@ -23,6 +21,8 @@ Der Aufbau eines OSPOs [4] soll alle Open‑Source‑Aktivitäten an der BFH koo
 Das OSPO soll BFH Mitarbeitende und Studierende in ihrem Arbeitsalltag unterstützen, Synergien aus bereits bestehenden Aktivitäten in den Departementen realisieren und neue Aufgaben wahrnehmen (siehe unten). **Wichtig ist die Drehscheibenfunktion zwischen Forschenden, Dozierenden und internen Stellen** wie IT-Services und Digital Offices in den Departementen.
 
 **Ziel sind nicht neue Vorschriften oder Tool-Vorgaben, sondern praktische Unterstützung aller internen und externen Akteure.** Durch seine koordinierende Rolle soll das OSPO dazu beitragen, das Potenzial von Open-Source-Technologien zu realisieren und technische sowie rechtliche Risiken zu reduzieren.
+
+![](https://bfh.github.io/opensource/docs/logo/bfh-ospo.svg)
 
 # Ziele
 
@@ -77,6 +77,7 @@ Das OSPO soll folgende Aufgaben wahrnehmen:
 
 [7] Neue Einträge im OSS Directory erstellen und bestehende Beiträge wie bspw.
 
-[8] Abgrenzung zur Begleitung eines Projektes | Aufwände von 4h und mehr werden vom jeweilige Projektbudget getragen und nicht von den Ressourcen des OSPOs selber.
+[8] Abgrenzung zur Begleitung eines Projektes | Aufwände von 4h und mehr werden vom jeweiligen Projektbudget getragen und nicht von den Ressourcen des OSPOs selber.
+
 
 > [<u>https://www.ossdirectory.com/de/success-stories/details/moodle-bfh</u>](https://www.ossdirectory.com/de/success-stories/details/moodle-bfh) aktualisieren
