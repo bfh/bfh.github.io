@@ -4,7 +4,7 @@ title: Nutzen & Anwenden
 permalink: /use
 ---
 
-[![](img/use.jpg)](https://unsplash.com/de/fotos/_94HLr_QXo8)
+[![Hand hält einen Kompass vor einem Wald](img/use.jpg)](https://unsplash.com/de/fotos/_94HLr_QXo8)
 
 # Allgemeines
 

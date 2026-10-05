@@ -1,0 +1,13 @@
+{
+  "name": "bfh.github.io (Jekyll)",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bookworm",
+  "postCreateCommand": "cd docs && bundle install",
+  "postAttachCommand": "cd docs && bundle exec jekyll serve --livereload --host 0.0.0.0",
+  "forwardPorts": [4000],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll",
+      "onAutoForward": "openPreview"
+    }
+  }
+}
