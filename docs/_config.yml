@@ -1,5 +1,7 @@
 title: BFH
-description: BFH | Bern University of Applied Sciences 
+description: BFH | Bern University of Applied Sciences
+url: "https://bfh.github.io"
+lang: de
 remote_theme: jekyll/minima
 
 author:
@@ -10,6 +12,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-avatar
+  - jekyll-sitemap
+  - jekyll-remote-theme
 
 future: true
 

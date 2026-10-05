@@ -4,7 +4,7 @@ title: Mitmachen & Starten
 permalink: /contribute
 ---
 
-[![](img/start.jpg)](https://unsplash.com/de/fotos/y5_mFlLMwJk)
+[![Laptop mit dem Schriftzug „Just start.“](img/start.jpg)](https://unsplash.com/de/fotos/y5_mFlLMwJk)
 
 # Startpunkte
 
@@ -13,14 +13,14 @@ Du möchtest Open source nicht nur nutzen, sondern aktiv an Projekten mitwirken 
 ## Open Source
 
 Aktuell unterhält die [BFH eine Reihe von öffentlichen s.g. Github-Organisationen](https://ossbenchmark.com/institutions/bfh) in denen bereits jede Menge Projekte veröffentlicht werden und wurden:
- - [github.com/**bfh**](http://github.com/bfh/)
- - [github.com/**BFH-InternetOfThings**](http://github.com/BFH-InternetOfThings/)
- - [github.com/**cpvrlab**](http://github.com/cpvrlab/)
- - [github.com/**digital-sustainability**](http://github.com/digital-sustainability/)
- - [github.com/**HAFL-WWI**](http://github.com/HAFL-WWI/)
- - [github.com/**iam-ictm**](http://github.com/iam-ictm/)
- - [github.com/**Lernstick**](http://github.com/Lernstick/)
- - [github.com/**virtuelleakademie**](http://github.com/virtuelleakademie/)
+ - [github.com/**bfh**](https://github.com/bfh/)
+ - [github.com/**BFH-InternetOfThings**](https://github.com/BFH-InternetOfThings/)
+ - [github.com/**cpvrlab**](https://github.com/cpvrlab/)
+ - [github.com/**digital-sustainability**](https://github.com/digital-sustainability/)
+ - [github.com/**HAFL-WWI**](https://github.com/HAFL-WWI/)
+ - [github.com/**iam-ictm**](https://github.com/iam-ictm/)
+ - [github.com/**Lernstick**](https://github.com/Lernstick/)
+ - [github.com/**virtuelleakademie**](https://github.com/virtuelleakademie/)
  - [github.com/**bern-movement-lab**](https://github.com/bern-movement-lab/)
  - [gitlab.ti.bfh.ch/**oss**](https://gitlab.ti.bfh.ch/oss/)
 
